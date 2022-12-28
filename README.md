@@ -1,6 +1,6 @@
 <h1 align="center">LittleNavmapOFMTheme</h1>
 
-<p align="center">Now you can use <a href="https://www.openflightmaps.org/" target="_blank">open flightmaps</a> VFR maps in <a href="https://albar965.github.io/littlenavmap.html" target="_blank">Little Navmap</a> for your VFR flight planning and navigation.</p> 
+<p align="center">Du kannst nun die <a href="https://www.openflightmaps.org/" target="_blank">open flightmaps</a> VFR-Karten in <a href="https://albar965.github.io/littlenavmap.html" target="_blank">Little Navmap</a> zur VFR-Navigation nutzen.</p> 
 
 <p align="center">
   <a href="https://albar965.github.io/littlenavmap.html" target="_blank">
@@ -28,12 +28,12 @@
 <br>
 
 ## Instructions
-1. Download the latest [release](https://github.com/AmbitiousPilots/LittleNavmapOFMTheme/releases/latest/download/openflightmaps.zip) of LittleNavmapOFMTheme 
-2. Extract the zip file into the `Little Navmap\data\maps\earth` directory 
-3. Start Little Navmap and click on View -> Theme -> Custom (openflightmaps) 
-4. Click on “Hide all airspaces” above the map to only show the OFM airspaces 
+1. Lade die [neuste Version](https://github.com/je-schindler/LittleNavmapOFMTheme/releases/latest/download/openflightmaps.zip) vom LittleNavmapOFMTheme herunter
+2. Entpacke die .zip-Datei in den Ordner `Little Navmap\data\maps\earth`
+3. Starte Little Navmap und klicke auf Ansicht -> kartenthema -> Benutzerdefiniert (openflightmaps) 
+4. Klicke auf "Alle Lufträume anzeigen oder verbergen", bis keine Lufträume mehr von LittleNavmap angezeigt werden
 
-*Outside of the covered area the map is rendered black. Move the map to a location in Europe in case your map window in Little Navmap is all black.* 
+*Außerhalb der mit Kartendaten abgedecken Gebiete wird die Karte schwarz dargestellt. Bewege dich auf der Karte nach Europa, sollte dein LittleNavmap-Fenster nur eine schwarze Karte zeigen.* 
 <br><br>
 
 ## About open flightmaps
